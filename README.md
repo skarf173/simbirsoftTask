@@ -14,7 +14,7 @@ git clone https://github.com/skarf173/simbirsoftTestTask.git
 2. Перейти в директорию проекта
 3. Создать проект описанный POM-файлом Maven:
 ````
-mvn install
+mvn clean test
 ````
 ## Установка и запуск отчета Allure
 1. Запустить формирование отчёта:

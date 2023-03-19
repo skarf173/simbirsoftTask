@@ -2,8 +2,8 @@ package saucedemo;
 
 import core.BaseTest;
 import helpers.TestValues;
-import org.junit.Assert;
-import org.junit.Test;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class SaucedemoTest extends BaseTest {
 

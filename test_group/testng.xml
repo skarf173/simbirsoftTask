@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Egor/IdeaProjects/simbirsoftNi">
         <classes>
-            <class name="saucedemo.SaucedemoTest">
+            <class name="tests.SaucedemoTest">
                 <methods>
                     <include name="SuccessfulBuyTest"/>
                     <include name="CheckingErrorMessageTest"/>

@@ -1,9 +1,11 @@
-package saucedemo;
+package tests;
 
 import core.BaseTest;
 import helpers.TestValues;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import pages.ChekoutPage;
+import pages.LoginPage;
 
 public class SaucedemoTest extends BaseTest {
 

@@ -2,7 +2,7 @@
 ## Описание
 ### Инструменты проекта
 * Selenium Webdriver
-* Junit 4
+* TestNG
 * Maven
 * Allure
 ## Установка и запуск теста

@@ -1,9 +1,10 @@
-package saucedemo;
+package pages;
 
 import core.BaseSeleniumPage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import pages.BasketPage;
 
 public class ProductsPage extends BaseSeleniumPage {
 
